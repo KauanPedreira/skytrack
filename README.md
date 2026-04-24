@@ -8,8 +8,8 @@ Este projeto foi desenvolvido como trabalho acadêmico da disciplina **ES47B-ES7
 
 ## 🚀 Demonstração
 
-🔗 Acesse o projeto online:
-
+🔗 Acesse o projeto online:  
+https://skytrack-plum.vercel.app
 
 ---
 
