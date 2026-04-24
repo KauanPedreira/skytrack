@@ -21,7 +21,7 @@ function App() {
       {state.loading && <Loading />}
 
       {state.error && <ErrorMessage message={state.error} />}
-
+      
       {state.data && <WeatherCard data={state.data} />}
 
       <History />
